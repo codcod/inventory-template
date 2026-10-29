@@ -1,0 +1,16 @@
+.venv/
+
+# Generated PDF reports and their intermediate markdown
+library/outputs/inventory-*.md
+library/outputs/inventory-*.pdf
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*~
